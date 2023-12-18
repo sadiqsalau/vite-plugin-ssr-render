@@ -1,0 +1,29 @@
+{
+  "name": "vite-plugin-ssr-render",
+  "version": "0.0.1",
+  "description": "Vite SSR Plugin for external backends",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadiqsalau/vite-plugin-ssr-render.git"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "ssr"
+  ],
+  "author": "Sadiq Salau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadiqsalau/vite-plugin-ssr-render/issues"
+  },
+  "homepage": "https://github.com/sadiqsalau/vite-plugin-ssr-render#readme",
+  "dependencies": {
+    "co-body": "^6.1.0",
+    "picocolors": "^1.0.0"
+  }
+}
