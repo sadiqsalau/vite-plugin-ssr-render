@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ssr-render",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vite SSR Plugin for external backends",
   "main": "index.js",
   "type": "module",
